@@ -1,5 +1,5 @@
 defmodule FsmMacros do
-  @docmodule """
+  @moduledoc """
   Debug macro for checking state_data and state_name for nil
 
   Enable debug audit by setting @debug to true. This is a compile 
